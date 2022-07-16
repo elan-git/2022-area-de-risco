@@ -1,4 +1,4 @@
-# Pesquisa e Desenvolvimento
+# Salvaguarda  UFS:  uso  de  drones  para  mapeamento  de risco em cidades resilientes
 
 Documentos de acompanhamento de projetos de pesquisa e desenvolvimento.
 A atribuição de papéis e a organização de pastas segue a metodologia INTERA para desenvolvimento de Objetos de Aprendizagem (OA)
@@ -7,7 +7,7 @@ A atribuição de papéis e a organização de pastas segue a metodologia INTERA
 ### Atribuições da Orientadora - Edilayne
 * Gerente - responsável pelo acompanhamento do projeto,
 * Designer Instrucional - responsável pelo planejamento e avaliação pedagógica - Edilayne
-### Atribuições do Orientando - Nome do Aluno (a)
+### Atribuições do Orientando - Joana
 * Analista - responsável por fazer o levantamento do contexto e dos requisitos do Objeto de Aprendizagem,
 * Designer de Interface,
 * Equipe de desenvolvimento,
